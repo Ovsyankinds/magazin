@@ -1,0 +1,33 @@
+.block{
+	border: 1px solid red;
+	width: 500px;
+	margin: 25px 10px;
+	display: none;
+}
+
+.block_header{
+	display: inline-block;
+	width: 200px;
+	color: red;
+	margin-left: 25px;
+	/*border: 1px solid red;*/
+}
+
+.content_block{
+	margin-left: 0px;
+}
+
+#admin_menu li{
+	display: inline;
+	/*border: 1px solid red;*/
+	margin-right: 10px;
+}
+
+#admin_menu li a{
+	text-decoration: none;
+}
+
+
+#add_new_block{
+	display: none;
+}

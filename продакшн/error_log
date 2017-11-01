@@ -1,0 +1,11 @@
+[28-Mar-2017 06:22:48 Europe/Moscow] PHP Fatal error:  Call to a member function add_new_block_view() on a non-object in /home/ovsyank1/public_html/application/controllers/registerUser/UserWorkPlace.php on line 51
+[28-Mar-2017 06:25:39 Europe/Moscow] PHP Fatal error:  Call to a member function add_new_block_view() on a non-object in /home/ovsyank1/public_html/application/controllers/registerUser/UserWorkPlace.php on line 51
+[28-Mar-2017 06:25:45 Europe/Moscow] PHP Fatal error:  Call to a member function add_new_block_view() on a non-object in /home/ovsyank1/public_html/application/controllers/registerUser/UserWorkPlace.php on line 51
+[28-Mar-2017 06:27:21 Europe/Moscow] PHP Fatal error:  Call to a member function add_new_block_view() on a non-object in /home/ovsyank1/public_html/application/controllers/registerUser/UserWorkPlace.php on line 51
+[28-Mar-2017 06:29:46 Europe/Moscow] PHP Fatal error:  Call to a member function add_new_block_view() on a non-object in /home/ovsyank1/public_html/application/controllers/registerUser/UserWorkPlace.php on line 51
+[28-Mar-2017 06:29:51 Europe/Moscow] PHP Fatal error:  Call to a member function add_new_block_view() on a non-object in /home/ovsyank1/public_html/application/controllers/registerUser/UserWorkPlace.php on line 51
+[28-Mar-2017 06:29:55 Europe/Moscow] PHP Fatal error:  Call to a member function add_new_block_view() on a non-object in /home/ovsyank1/public_html/application/controllers/registerUser/UserWorkPlace.php on line 51
+[28-Mar-2017 06:29:55 Europe/Moscow] PHP Fatal error:  Call to a member function add_new_block_view() on a non-object in /home/ovsyank1/public_html/application/controllers/registerUser/UserWorkPlace.php on line 51
+[28-Mar-2017 06:31:37 Europe/Moscow] PHP Fatal error:  Call to a member function add_new_block_view() on a non-object in /home/ovsyank1/public_html/application/controllers/registerUser/UserWorkPlace.php on line 51
+[28-Mar-2017 06:32:38 Europe/Moscow] PHP Fatal error:  Call to a member function add_new_block_view() on a non-object in /home/ovsyank1/public_html/application/controllers/registerUser/UserWorkPlace.php on line 51
+[28-Mar-2017 06:33:58 Europe/Moscow] PHP Fatal error:  Call to a member function add_new_block_view() on a non-object in /home/ovsyank1/public_html/application/controllers/registerUser/UserWorkPlace.php on line 51
